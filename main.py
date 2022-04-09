@@ -51,4 +51,4 @@ def generateWords(model, numWords):
   print(generatedText.capitalize() + ".")
 
 BooksModel = generateModel('Books.txt')
-generateWords(BooksModel, 15)
+generateWords(BooksModel, 20)

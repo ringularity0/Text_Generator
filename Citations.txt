@@ -1,0 +1,7 @@
+Steane, Andrew. "Quantum computing." Reports on Progress in Physics 61.2 (1998): 117.
+O'brien, Jeremy L. "Optical quantum computing." Science 318.5856 (2007): 1567-1570.
+Gruska, Jozef. Quantum computing. Vol. 2005. London: McGraw-Hill, 1999.
+Preskill, John. "Quantum computing in the NISQ era and beyond." Quantum 2 (2018): 79.
+Cao, Yudong, et al. "Quantum chemistry in the age of quantum computing." Chemical reviews 119.19 (2019): 10856-10915.
+Li, Shu-Shen, et al. "Quantum computing." Proceedings of the National Academy of Sciences 98.21 (2001): 11847-11848.
+Hirvensalo, Mika. Quantum computing. Springer Science & Business Media, 2003.
